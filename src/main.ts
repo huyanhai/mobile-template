@@ -52,4 +52,4 @@ async function bootstrap() {
 
 bootstrap();
 
-console.log(demo3);
+console.log(demo);
