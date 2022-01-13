@@ -1,0 +1,3 @@
+interface Window {
+  loginStatus: string;
+}
